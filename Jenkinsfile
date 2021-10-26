@@ -1,0 +1,1 @@
+bat 'echo "toto"'
